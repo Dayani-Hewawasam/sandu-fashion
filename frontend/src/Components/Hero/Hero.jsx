@@ -2,7 +2,7 @@ import React from 'react'
 import'./Hero.css'
 import frock_icon from '../Assets/frock_icon.png'
 import arrow_icon from '../Assets/arrow.png'
-import hero_image from '../Assets/frock-1.png'
+import hero_image from '../Assets/hero.png'
 import hero1 from '../Assets/Sandu Fashion Packing.png'
 
 
