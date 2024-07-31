@@ -33,7 +33,7 @@ export const ProductDisplay = (props) => {
                 Rs.{product.price}
             </div>
              <div className="productdisplay-right-description">
-                Bank deposit/Online transfer/Cash on delivery Available
+               /Online transfer/Cash on delivery Available
              </div>
              <div className="productdisplay-right-size">
                 <h1>Select Size</h1>

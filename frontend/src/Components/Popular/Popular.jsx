@@ -14,8 +14,9 @@ useEffect(()=>{
 
   return (
     <div className='popular'>
-        <h1>POPULAR ITEMS</h1>
-        <hr/>
+        <h1>On-Trend</h1>
+        <h2>Pick your favorite</h2>
+        <hr />
         <div className="popular-item">
             {popularProducts.map((item,i)=>{
                 return <Item key={i} id={item.id} name={item.name} image={item.image} price={item.price}/>

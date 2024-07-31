@@ -14,7 +14,8 @@ export const NewCollection = () => {
   },[])
   return (
     <div className='new-collection'>
-        <h1>NEW COLLECTION</h1>
+        <h1>New lineup</h1>
+        <h2>Get your order before it's too late</h2>
         <hr/>
     <div className="collections">
         {new_collection.map((item,i)=>{

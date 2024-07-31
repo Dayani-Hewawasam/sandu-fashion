@@ -11,6 +11,7 @@ import Footer from './Components/Footer/Footer';
 import long_frocks_banner from './Components/Assets/banner_long frocks.png';
 import short_frocks_banner from './Components/Assets/banner_short frocks.png';
 import tshirts_banner from './Components/Assets/banner_t-shirts.png';
+import PlaceOrder from './Pages/PlaceOrder';
 //import home_banner from './Components/Assets/home.png';
 
  function App() {
@@ -28,6 +29,7 @@ import tshirts_banner from './Components/Assets/banner_t-shirts.png';
         </Route>
         <Route path='/cart' element={<Cart/>}/>
         <Route path='/login' element={<LoginSignup/>}/>
+        <Route path='/order' element={<PlaceOrder/>}/>
       </Routes>
       <Footer/>
       </BrowserRouter>
