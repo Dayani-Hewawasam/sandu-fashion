@@ -18,29 +18,12 @@
     font-weight: 700
     ;
 }
-.footer-links{
-    display: flex;
-    list-style: none;
-    gap: 50px;
-    color: #252525;
-    font-size: 20px;
 
-}
-.footer-links li{
-    cursor: pointer;
-   
 
+.icon-gap {
+    margin-right: 15px; /* Adjust the value as needed */
 }
-.footer-social-icon{
-    display: flex;
-    gap: 20px;
-}
-.footer-icons-container{
-    padding: 10px;
-    padding-bottom: 6px;
-    background: #fbfbfb;
-    border: 1px solid #ebebeb;
-}
+
 .footer-copyright{
     display: flex;
     flex-direction: column;

@@ -5,7 +5,7 @@
     background: linear-gradient(180deg, #b881b8, #f5f1f5 70%);
     display: flex;
     align-items: center;
-    padding: 0 50px;
+    padding: 0 50px ;
 }
 
 /* Left section styling */
@@ -26,17 +26,7 @@
     margin: 0;
 }
 
-/* Frock icon container */
-.hero-frock-icon {
-    display: flex;
-    align-items: center;
-    gap: 40px;
-    margin-top: 10px;
-}
 
-.hero-frock-icon img {
-    width: 80px;
-}
 
 /* Main objective statement */
 .hero-left h2 {
@@ -84,6 +74,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 0%;
 }
 
 .hero-right img {
