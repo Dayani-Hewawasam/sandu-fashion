@@ -2,13 +2,15 @@ import React from 'react'
 import'./Hero.css'
 import frock_icon from '../Assets/frock_icon.png'
 import arrow_icon from '../Assets/arrow.png'
-import hero_image from '../Assets/hero.png'
+import hero_image from '../Assets/frock-1.png'
+import hero1 from '../Assets/Sandu Fashion Packing.png'
 
 
 
 export const Hero = () => {
   return (
     <div className='hero'>  
+    
         <div className="hero-left">
 
             <div>
@@ -16,10 +18,10 @@ export const Hero = () => {
                 <p>- Donatella Versace</p>
                 <p></p>
                 
-                 <div className="hero-frock-icon">
-               <p> ......................................................</p>
+                 {/*<div className="hero-frock-icon">
+
                     <img src={frock_icon} alt="" />
-                </div> 
+                </div> */}
             </div>
             <h2>Our Main Objective is to Deliver High Quality Products To Our Customers</h2>
             {/* <div className="hero-latest-btn">

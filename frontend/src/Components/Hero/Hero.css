@@ -2,7 +2,7 @@
 /* Base hero container */
 .hero {
     height: 70vh;
-    background: linear-gradient(180deg, #cc74f1, #f1f1f1 70%);
+    background: linear-gradient(180deg, #b881b8, #f5f1f5 70%);
     display: flex;
     align-items: center;
     padding: 0 50px;
@@ -90,6 +90,8 @@
     max-width: 100%;
     height: auto;
 }
+
+
 
 /* Responsive adjustments */
 @media (max-width: 1280px) {
