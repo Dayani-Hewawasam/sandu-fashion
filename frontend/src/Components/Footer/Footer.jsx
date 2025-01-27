@@ -18,9 +18,9 @@ export const Footer = () => {
 
       {/* Second Column: Footer Links */}
       <div className="footer-links-container">
-        <p><img src={gmail_icon} alt="Gmail Icon" className="icon-gap" />sandufashion40@gmail.com</p>
-        <p><img src={whatsapp_icon} alt="WhatsApp Icon" className="icon-gap" />0767685774</p>
-        <p><img src={facebook_icon} alt="Facebook Icon" className="icon-gap" />Sandu Fashion</p>
+      <a href="mailto:sandufashion40@gmail.com" className="footer-link" target="_blank" rel="noopener noreferrer"> <p><img src={gmail_icon} alt="Gmail Icon" className="icon-gap" />sandufashion40@gmail.com</p></a>
+      <a href="https://wa.me/7607685774" className="footer-link" target="_blank" rel="noopener noreferrer"><p><img src={whatsapp_icon} alt="WhatsApp Icon" className="icon-gap" />0767685774</p></a>
+      <a href="https://web.facebook.com/sandufashion40" className="footer-link" target="_blank" rel="noopener noreferrer"><p><img src={facebook_icon} alt="Facebook Icon" className="icon-gap" />Sandu Fashion</p></a>
         <p><img src={instagram_icon} alt="Instagram Icon" className="icon-gap" />sandu_fashion40</p>
       </div>
 

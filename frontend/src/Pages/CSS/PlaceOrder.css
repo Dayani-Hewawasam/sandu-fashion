@@ -1,3 +1,6 @@
+body {
+    overflow-x: hidden; /* Disables horizontal scrolling */
+  }
 
 .place-order{
     align-items: start;
