@@ -29,7 +29,7 @@ export const Footer = () => {
         <h3>Subscribe to Our Newsletter</h3>
         <p>Get the latest news and updates right in your inbox.</p>
         <input type="email" placeholder="Enter your email" />
-        <button type="submit">Subscribe</button>
+        <button type="Submit">Subscribe</button>
       </div>
 
       {/* Footer Copyright Section */}
