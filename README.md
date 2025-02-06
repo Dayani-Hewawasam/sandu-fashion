@@ -57,7 +57,7 @@ Follow these steps to set up the project on your local machine:
 ## Contact
 For questions or suggestions, please contact:
 Dayani Hewawasam  
-Email: [dayani@example.com](mailto:dayani@example.com)
+Email: [dayanihewawasam@gmail.com](mailto:dayanihewawasam@gmail.com)
 
 ---
 Thank you for exploring Sadu Fashion!
