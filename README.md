@@ -59,13 +59,15 @@ Ensure you have the following installed:
 - **Backend:** Deploy using Render, Heroku, or AWS.
 - **Database:** Use MongoDB Atlas for cloud storage.
 
-## Contact
-For any inquiries or support, reach out at dayanihewawasam@gmail.com
+## Contact 
 
+I’m always open to collaborating, sharing ideas, and learning from others. Feel free to reach out—let’s build something amazing together!  
 
-Dayani Hewawasam  
-Email: [dayanihewawasam@gmail.com](mailto:dayanihewawasam@gmail.com)
+📧 Email: dayanihewawasam@gmail.com
 
----
+🔗 LinkedIn: https://www.linkedin.com/in/dayani-hewawasam-33353128b/
+
+📁 GitHub: https://github.com/Dayani-Hewawasam/
+
 Thank you for exploring Sadu Fashion!
 
