@@ -11,12 +11,13 @@ const cors =require("cors");
 //const { type } = require("os");
 //const { log } = require("console");
 //const { send } = require("process");
+require("dotenv").config(); 
 
 app.use(express.json());
 app.use(cors());
 
-//database connection with mongodb
-mongoose.connect("mongodb+srv://dayanihewawasam:20020101@cluster0.hyjpvr2.mongodb.net/e-commerce")
+
+mongoose.connect(process.env.MONGO_URI)
 
 
 //API creation
