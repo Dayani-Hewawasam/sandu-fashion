@@ -1,5 +1,5 @@
 
-# Sandu Fashion - E-commerce Application
+# Sandu Fashion - E-commerce Web Application
 
 ## Overview
 Sandu Fashion is a modern e-commerce application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It provides a seamless shopping experience with a user-friendly interface, secure authentication, and an admin panel for managing products, orders, and users.
